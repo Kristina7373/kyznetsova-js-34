@@ -1,0 +1,5 @@
+1 zadanie
+function getType(input) {
+return typeof input;
+}
+console.log(getType(5));
